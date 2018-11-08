@@ -1,0 +1,40 @@
+
+  body {background-color:rgb(167, 80, 80)}
+ embed{
+     text-align:right;
+ }
+  #encabezado {color: rgba(10, 6, 6, 0.952);
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      background-color: rgb(189, 145, 160);
+      text-align: center ;
+      font-size: 300%;
+      font-weight: bolder;} 
+p.lacarta{
+    text-decoration-line: underline;
+color:purple;
+font-size: 150%
+}
+p.lacarta{
+    font-family: 'Courier New', Courier, monospace
+}
+p.elcafe{ 
+color:rgba(126, 21, 21, 0.822);
+font-size: 150% 
+}
+p.elcafe{
+    font-family: 'Courier New', Courier, monospace
+}
+p.contacto{ 
+color:rgba(126, 21, 21, 0.836);
+font-size: 150% 
+}
+p.contacto{
+    font-family: 'Courier New', Courier, monospace
+}
+.derecha{
+    text-align: right;
+}
+.centro{
+text-align: center;
+}
+ 
