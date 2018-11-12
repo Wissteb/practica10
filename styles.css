@@ -1,18 +1,38 @@
 
-  body {background-color:rgb(167, 80, 80)}
+  body {background-color:rgb(255, 255, 255)}
  embed{
      text-align:right;
  }
- header{align-items: flex-start;
-     background-color: blueviolet;
+ 
+    
 
+   nav{ text-align: right;
+     -webkit-text-fill-color: grey ;
  }
-  #encabezado {color: rgba(10, 6, 6, 0.952);
-      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-      
-      text-align: center ;
-      font-size: 300%;
-      font-weight: bolder;} 
+ a{
+     font-size: 180%;
+ }
+  header{align-items: flex-start;
+   
+      font-size:50%;
+ 
+  }
+   #encabezado {color: rgba(180, 13, 13, 0.952);
+       font-family: cursive;
+       font-style: italic;
+       
+       text-align: left;
+       font-size: 300%;
+       font-weight: bolder;} 
+
+
+
+       .imgRedonda {
+        float: right;
+        width:200px;
+        height:200px;
+        border-radius:150px;
+    }
 p.lacarta{
     text-decoration-line: underline;
 color:purple;
