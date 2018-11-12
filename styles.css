@@ -3,11 +3,46 @@
  embed{
      text-align:right;
  }
- 
-    
+ #cab{
+     text-align: right;
+ }
+ .imgmun{
+   text-align: center;
+ }
+ .speech-bubble {
+    background: #6495ED;
+    color: #FFF; 
+    font-family: Arial, Sans-serif;
+    font-size: 12px;
+    padding: 20px 10px 10px 10px;
+    text-align : center;
+    width: 400px;
+    height: 210px;
+    -moz-border-radius: px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+ }
+ .speech-bubble2 {
+    background: #6495ED;
+    color: #FFF; 
+    font-family: Arial, Sans-serif;
+    font-size: 12px;
+    padding: 20px 10px 10px 10px;
+    text-align : center;
+    width: 200px;
+    height: 300px;
+    -moz-border-radius: px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    float: right;
+ }
 
    nav{ text-align: right;
      -webkit-text-fill-color: grey ;
+ }
+
+ .imgpc{
+     float:center;
  }
  a{
      font-size: 180%;
@@ -16,6 +51,9 @@
    
       font-size:50%;
  
+  }
+  mark{
+     background-color: rgba(252, 59, 0, 0.479);
   }
    #encabezado {color: rgba(180, 13, 13, 0.952);
        font-family: cursive;
@@ -28,37 +66,8 @@
 
 
        .imgRedonda {
-        float: right;
-        width:200px;
-        height:200px;
+        float: left;
+        width:150px;
+        height:170px;
         border-radius:150px;
     }
-p.lacarta{
-    text-decoration-line: underline;
-color:purple;
-font-size: 150%
-}
-p.lacarta{
-    font-family: 'Courier New', Courier, monospace
-}
-p.elcafe{ 
-color:rgba(126, 21, 21, 0.822);
-font-size: 150% 
-}
-p.elcafe{
-    font-family: 'Courier New', Courier, monospace
-}
-p.contacto{ 
-color:rgba(126, 21, 21, 0.836);
-font-size: 150% 
-}
-p.contacto{
-    font-family: 'Courier New', Courier, monospace
-}
-.derecha{
-    text-align: right;
-}
-.centro{
-text-align: center;
-}
- 
