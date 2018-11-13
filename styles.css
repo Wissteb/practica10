@@ -6,8 +6,13 @@
  #cab{
      text-align: right;
  }
+form{
+    float: right;
+}
+ }
  .imgmun{
    text-align: center;
+   font-size: 10000cm
  }
  .speech-bubble {
     background: #6495ED;
@@ -39,6 +44,7 @@
     font-size: 100%;
  }
 
+
    nav{ text-align: right;
      -webkit-text-fill-color: grey ;
  }
@@ -68,11 +74,13 @@
 .imginfo{ float: right;
 
 }
-
+.imgmano{
+    float:center;
+}
 
 
        .imgRedonda {
-        float: left;
+        
         width:150px;
         height:170px;
         border-radius:150px;
